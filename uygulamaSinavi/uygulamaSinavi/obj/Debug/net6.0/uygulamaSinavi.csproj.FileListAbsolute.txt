@@ -1,0 +1,15 @@
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\bin\Debug\net6.0\uygulamaSinavi.exe
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\bin\Debug\net6.0\uygulamaSinavi.deps.json
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\bin\Debug\net6.0\uygulamaSinavi.runtimeconfig.json
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\bin\Debug\net6.0\uygulamaSinavi.dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\bin\Debug\net6.0\uygulamaSinavi.pdb
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.AssemblyInfo.cs
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\refint\uygulamaSinavi.dll
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.pdb
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\uygulamaSinavi.genruntimeconfig.cache
+C:\Users\burak\Desktop\work_files\BilgeAdam\Calismalar\Programming\Erdinc_Hoca\exam\uygulamaSinavi\uygulamaSinavi\obj\Debug\net6.0\ref\uygulamaSinavi.dll
